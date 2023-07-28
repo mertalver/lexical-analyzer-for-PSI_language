@@ -1,0 +1,25 @@
+int main() {
+   int num1 = 10;
+   int num2 = 20;
+   int i = 0;
+   int result = num1 + num2; /* addition*/
+   i++;
+
+   printf("Result: %d\n", result);
+
+   return 0;
+}
+
+
+hi:=hello+25; /*addition */
+hello++; /*increment*/
+
+if ( some_condition ) {
+variable_one:=222;
+counter++; /* increment */
+i--;
+}
+
+int val = 7665846755829788;
+int val2 = 1293;
+"str1
